@@ -13,7 +13,7 @@ I'm a software engineering student interested in technology, problem-solving, an
 ### Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java,git,github,vscode" alt="C, Python, Java, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,git,github,vscode,mysql" alt="C, Python, Java, Git, GitHub, VS Code and Mysql" />
 </p>
 
 ### Connect With Me
